@@ -1,0 +1,99 @@
+#body{
+    background-color: #f6f7ff;
+    font-family: "Poppins", Sans-serif;
+}
+
+.landing{
+    background-color: #2b3036;
+    color: white;
+    border-radius: 20px;
+    padding: 30px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 450px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    padding: 30px;
+    height: 600px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    margin-left: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skills{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    padding: 30px;
+    height: 660px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    margin-left: 450px;
+}
+
+.about_text.hello{
+    font-weight: 700;
+    font-family: "Poppins", Sans-serif;
+}
+
+.cert_data{
+    font-family: "Poppins", Sans-serif;
+}
+
+.python{
+    text-align: center
+}
+
+.face{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.landing_text{
+    text-align: left;
+}
+
+.name{
+    font-family: "Poppins", Sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 0.7em;
+    padding-bottom: 15px;
+}
+
+.title{
+    font-family: "Poppins", Sans-serif;
+    font-size: 36px;
+    line-height: 0.7em;
+    padding-bottom: 50px;
+}
+
+.landing_button{
+    border-radius: 15px;
+    height: 40px;
+    width: 200px;
+    border-color: white;
+    color: white;
+
+}
+
+.contact_button{
+    background-color: #2b3036;
+}
+
+.portfolio_button{
+    background-color: #5585b5;
+}
