@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 #body{
     background-color: #f6f7ff;
     font-family: "Poppins", Sans-serif;
@@ -16,7 +20,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 900px;
+    width: 100%;
 }
 
 .linkedIn{
@@ -61,7 +65,7 @@
     color: black;
     border-radius: 20px;
     padding: 30px;
-    height: 2230px;
+    height: 2250px;
     margin-right: 150px;
     margin-bottom: 50px;
     margin-left: 450px;
@@ -405,7 +409,7 @@
 .experience_title{
     font-weight: 700;
     font-family: "Poppins", Sans-serif;
-    padding-bottom: 25px;
+    padding-bottom: 60px;
 }
 
 .job_title{
